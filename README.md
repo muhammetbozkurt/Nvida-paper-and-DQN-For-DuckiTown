@@ -50,6 +50,9 @@ network models simultaneously.
 
 ## NVidia's End-To-End Steering Model
 
+
+![figure](https://github.com/muhammetbozkurt/Nvida-paper-and-DQN-For-DuckiTown/blob/main/overall.PNG)
+
 Nvidia
 published an article explaining its deep learning model, seen
 in figure 2, that uses convolutional neural networks to map
@@ -77,6 +80,7 @@ a scalar value between -1 and 1. Moreover, Adam optimizer
 function as an optimization function. We trained our model in
 10 epochs with 10000 steps for every epoch. In every epoch, 320000 data points were created using our image generator
 function which is our custom image augmentation function.
+
 
 
 ## Modified NVidia's End-To-End Steering Model
