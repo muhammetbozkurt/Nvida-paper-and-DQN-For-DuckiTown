@@ -106,3 +106,19 @@ cross-entropy which is for multi class classification
 tasks since we have 3 classes.
 
 ## Results
+
+__Nvidia end-to-end Result__:
+
+![Figure](https://github.com/muhammetbozkurt/Nvida-paper-and-DQN-For-DuckiTown/blob/main/results/nvidia.gif)
+
+__Modified Nvidia end-to-end Result__:
+
+![Figure](https://github.com/muhammetbozkurt/Nvida-paper-and-DQN-For-DuckiTown/blob/main/results/custom.gif)
+
+__DQN Result__:
+
+As stated in DQN section, our hardware was not capable to
+train DQN model. Thus, sufficient
+results for DQN model could not be achieved to get .
+
+![Figure](https://github.com/muhammetbozkurt/Nvida-paper-and-DQN-For-DuckiTown/blob/main/results/dqn.gif)
