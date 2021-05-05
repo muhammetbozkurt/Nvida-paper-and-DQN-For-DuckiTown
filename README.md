@@ -99,9 +99,9 @@ representing moving left or right and not moving. Assum-
 Fig. 3. Customized Nvidia Model.
 ing that our agent always moves forward with constant
 velocity.
-* A Sigmoid function was added to the output of our custom
+* A softmax function was added to the output of our custom
 function as activation function because the addition
-of the Sigmoid function ensures that the output of our
+of the softmax function ensures that the output of our
 model is a probability distribution. In other words, the
 outputs of the 3 neurons in the last layer will be between
 0 and 1 and their aggregation will be adjusted to 1.
