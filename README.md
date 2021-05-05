@@ -121,7 +121,7 @@ __Modified Nvidia end-to-end Result__:
 
 __DQN Result__:
 
-As stated in DQN section, our hardware was not capable to
+As stated in DQN section, my gpu was not capable to
 train DQN model. Thus, sufficient
 results for DQN model could not be achieved to get .
 
