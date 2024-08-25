@@ -16,8 +16,6 @@ NVIDIA introduced a deep learning model that uses convolutional neural networks 
 
 ## Modified NVidia's End-To-End Steering Model
 
-This section’s work was completed by Muhammet Bozkurt.
-
 We modified NVIDIA’s model to function as a classifier instead of a regressor. The key changes include:
 - Replacing the single output neuron with three neurons to represent left, right, and no movement, assuming constant forward velocity.
 - Adding a softmax function to produce a probability distribution for the three output neurons.
